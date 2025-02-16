@@ -1,0 +1,6 @@
+[submodule "radard"]
+	path = radard
+	url = https://github.com:Skyppex/radard.git
+[submodule "radar.nvim"]
+	path = radar.nvim
+	url = https://github.com:Skyppex/radar.nvim.git
